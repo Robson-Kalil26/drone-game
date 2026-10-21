@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 
-/** Janela principal: cenário, painel de status, log e controles por teclado. */
+
 public class Main extends JFrame {
 
     private Drone drone;
